@@ -1769,7 +1769,7 @@ footer {
 }
 
 .large-image {
-  width: 100%;
+  width: 120%;
   height: auto;
   max-width: 1200px; /* or any specific value to control maximum size */
 }
