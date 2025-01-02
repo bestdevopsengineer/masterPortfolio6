@@ -1368,7 +1368,7 @@ noscript {
 }
 
 .project-boxes-div {
-  width: 100%;
+  width: 40%;
   height: fit-content;
   display: flex;
   flex-direction: column;
@@ -1379,7 +1379,7 @@ noscript {
 }
 
 .project-box-wrapper {
-  width: 150%;
+  width: 100%;
 }
 
 .project-box {
