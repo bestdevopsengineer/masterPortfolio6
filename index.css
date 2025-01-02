@@ -1774,6 +1774,12 @@ footer {
   max-width: 1200px; /* or any specific value to control maximum size */
 }
 
+@media (min-width: 768px) {
+  .large-image {
+    max-width: 1200px; /* Adjust according to your design */
+  }
+}
+
 .footer-avatar-img {
   width: fit-content;
   z-index: 2;
